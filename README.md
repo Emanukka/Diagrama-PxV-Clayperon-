@@ -1,6 +1,12 @@
-# Diagrama-PxV-Clayperon-
-Esse projeto contém o código fonte para a criação de um gráfico PxV. O  modelo utilizado trata-se da compressão/expansão de um gás ideal contra uma presão externa em um processo reversível e à temperatura constante. Alguns conceitos e ferramentas utilizados são:
-* Criação de funções ( por exemplo, a equação de estado dos gases ideais, $P(V)=nRT$ )
-* Compressão de listas
-* Utilização da biblioteca scipy, para calcular o valor da integral $W=-\int P(V)dV$) ; e da biblioteca matplotlib para a construção do gráfico.
+# Diagram-PxV-Clayperon-
+This project contains the source code for creating a Pv diagram. The model used deals with the compression/expansion of an ideal gas against an external pressure in a reversible process at constant temperature. Some concepts and tools used are:
+
+*Creation of functions (for example, the equation of state of ideal gases, $P(V)=nRT$);
+*List comprehension;
+*Use of the scipy library to calculate the value of the integral $W=-\int P(V)dV$; and the matplotlib library for graph construction.
+
+
+
+
+
   
